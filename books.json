@@ -1,0 +1,244 @@
+{
+    "categories": [
+      {
+        "name": "Fiction",
+        "books": [
+          {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn": "978-0061120084",
+            "publishedYear": 1960,
+            "quantity": 5
+          },
+          {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn": "978-0451524935",
+            "publishedYear": 1949,
+            "quantity": 3
+          },
+          {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "978-0743273565",
+            "publishedYear": 1925,
+            "quantity": 4
+          },
+          {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn": "978-1503290563",
+            "publishedYear": 1813,
+            "quantity": 2
+          },
+          {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "isbn": "978-0316769488",
+            "publishedYear": 1951,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": "Science Fiction",
+        "books": [
+          {
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "isbn": "978-0441172719",
+            "publishedYear": 1965,
+            "quantity": 4
+          },
+          {
+            "title": "Neuromancer",
+            "author": "William Gibson",
+            "isbn": "978-0441569595",
+            "publishedYear": 1984,
+            "quantity": 2
+          },
+          {
+            "title": "The Martian",
+            "author": "Andy Weir",
+            "isbn": "978-0553418026",
+            "publishedYear": 2011,
+            "quantity": 5
+          },
+          {
+            "title": "Foundation",
+            "author": "Isaac Asimov",
+            "isbn": "978-0553293357",
+            "publishedYear": 1951,
+            "quantity": 3
+          },
+          {
+            "title": "Snow Crash",
+            "author": "Neal Stephenson",
+            "isbn": "978-0553380958",
+            "publishedYear": 1992,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "name": "Mystery",
+        "books": [
+          {
+            "title": "The Girl with the Dragon Tattoo",
+            "author": "Stieg Larsson",
+            "isbn": "978-0307473479",
+            "publishedYear": 2005,
+            "quantity": 4
+          },
+          {
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "isbn": "978-0307588364",
+            "publishedYear": 2012,
+            "quantity": 3
+          },
+          {
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "isbn": "978-0307474278",
+            "publishedYear": 2003,
+            "quantity": 5
+          },
+          {
+            "title": "The Silent Patient",
+            "author": "Alex Michaelides",
+            "isbn": "978-1250301697",
+            "publishedYear": 2019,
+            "quantity": 2
+          },
+          {
+            "title": "And Then There Were None",
+            "author": "Agatha Christie",
+            "isbn": "978-0062073488",
+            "publishedYear": 1939,
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "name": "Biography",
+        "books": [
+          {
+            "title": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "isbn": "978-0553296983",
+            "publishedYear": 1947,
+            "quantity": 3
+          },
+          {
+            "title": "Steve Jobs",
+            "author": "Walter Isaacson",
+            "isbn": "978-1451648539",
+            "publishedYear": 2011,
+            "quantity": 2
+          },
+          {
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "isbn": "978-1524763138",
+            "publishedYear": 2018,
+            "quantity": 4
+          },
+          {
+            "title": "The Wright Brothers",
+            "author": "David McCullough",
+            "isbn": "978-1476728742",
+            "publishedYear": 2015,
+            "quantity": 2
+          },
+          {
+            "title": "Einstein: His Life and Universe",
+            "author": "Walter Isaacson",
+            "isbn": "978-0743264747",
+            "publishedYear": 2007,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": "Self-Help",
+        "books": [
+          {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "isbn": "978-0735211292",
+            "publishedYear": 2018,
+            "quantity": 5
+          },
+          {
+            "title": "The 7 Habits of Highly Effective People",
+            "author": "Stephen R. Covey",
+            "isbn": "978-1982137274",
+            "publishedYear": 1989,
+            "quantity": 4
+          },
+          {
+            "title": "How to Win Friends and Influence People",
+            "author": "Dale Carnegie",
+            "isbn": "978-0671027032",
+            "publishedYear": 1936,
+            "quantity": 3
+          },
+          {
+            "title": "The Subtle Art of Not Giving a F*ck",
+            "author": "Mark Manson",
+            "isbn": "978-0062457714",
+            "publishedYear": 2016,
+            "quantity": 2
+          },
+          {
+            "title": "Mindset: The New Psychology of Success",
+            "author": "Carol S. Dweck",
+            "isbn": "978-0345472328",
+            "publishedYear": 2006,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": "Science",
+        "books": [
+          {
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "isbn": "978-0553380163",
+            "publishedYear": 1988,
+            "quantity": 4
+          },
+          {
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "isbn": "978-0192860927",
+            "publishedYear": 1976,
+            "quantity": 2
+          },
+          {
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "isbn": "978-0345539434",
+            "publishedYear": 1980,
+            "quantity": 3
+          },
+          {
+            "title": "The Emperor of All Maladies",
+            "author": "Siddhartha Mukherjee",
+            "isbn": "978-1439170915",
+            "publishedYear": 2010,
+            "quantity": 2
+          },
+          {
+            "title": "Sapiens: A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "isbn": "978-0062316097",
+            "publishedYear": 2011,
+            "quantity": 5
+          }
+        ]
+      }
+    ]
+  }
